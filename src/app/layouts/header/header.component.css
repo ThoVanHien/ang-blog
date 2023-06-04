@@ -1,0 +1,10 @@
+header {
+  height: 100px;
+}
+.site-logo {
+  padding: 0.5rem 2rem;
+  border-radius: 2rem;
+  background-color: var(--secondary-color);
+  text-decoration: none;
+  color: var(--primary-color);
+}
